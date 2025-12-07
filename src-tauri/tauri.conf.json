@@ -8,7 +8,7 @@
   },
   "package": {
     "productName": "vrc-tracker",
-    "version": "0.1.0"
+    "version": "0.1.1"
   },
   "tauri": {
     "allowlist": {
@@ -38,7 +38,7 @@
     "updater": {
       "active": true,
       "endpoints": [
-        "https://github.com/DEIN_GITHUB_USERNAME/DEIN_REPO_NAME/releases/latest/download/latest.json"
+        "https://github.com/Bigsmoke002/vrc-tracker/releases/latest/download/latest.json"
       ],
       "dialog": true,
       "pubkey": "dW50cnVzdGVkIGNvbW1lbnQ6IG1pbmlzaWduIHB1YmxpYyBrZXk6IDUyRDMwMTI5MEI3QTQ3MzcKUldRM1Izb0xLUUhUVXZOZUdUWE5QazNlSWFNS3NVc2NVT3hiTzVsd2RXSDUrZXh3dnZuRkdKRmsK"
